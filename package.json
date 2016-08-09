@@ -1,0 +1,9 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  	"publish": "resume publish --theme slick"
+  },
+  "author": ""
+}

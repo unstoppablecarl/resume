@@ -1,0 +1,130 @@
+{
+   "basics":{
+      "name":"Carl Olsen",
+      "label":"Web Developer",
+      "picture":"",
+      "email":"unstoppablecarlolsen@gmail.com",
+      "phone":"(443) 655-3891",
+      "website":"",
+      "summary":"",
+      "location":{
+         "address":"23 Ashmill Ct",
+         "postalCode":"MD 21236",
+         "city":"Nottingham",
+         "countryCode":"US",
+         "region":"Maryland"
+      },
+      "profiles":[
+         {
+            "url":"http://twitter.com/unstoppablecarl",
+            "username":"unstoppableCarl",
+            "network":"Twitter"
+         },
+         {
+            "url":"https://github.com/unstoppablecarl",
+            "username":"unstoppableCarl",
+            "network":"Github"
+         }
+      ]
+   },
+   "interests":[
+      {
+         "keywords":[
+            "Phaser.io",
+            "PIXI.js"
+         ],
+         "name":"HTML5 Games"
+      },
+      {
+         "name":"Raspberry Pi"
+      }
+   ],
+   "languages":[
+      {
+         "fluency":"Native speaker",
+         "language":"English"
+      }
+   ],
+   "skills":[
+      {
+         "keywords":[
+            "HTML",
+            "CSS",
+            "Javascript",
+            "PHP",
+            "MySQL",
+            "nodejs"
+         ],
+         "level":"Ledgendary",
+         "name":"Web Development"
+      }
+   ],
+   "volunteer":[
+      {
+         "highlights":[
+            "Worked with youth to develop a wordpress website in one day for a local non-profit"
+         ],
+         "summary":"Volunteered as a coach for the Webslam youth hackathon",
+         "endDate":"2015-12-01",
+         "startDate":"2015-12-01",
+         "website":"http://www.digitalharbor.org/",
+         "position":"Volunteer",
+         "organization":"Digital Harbor Foundation"
+      }
+   ],
+   "work":[
+      {
+         "highlights":[
+            "Developed and maintained in house content management framework (PHP, MySql)",
+            "Supervised a wide range of client projects including: ecommerce, custom CMS, document / logistical data tracking and reporting, internal client company operation workflows, HTML5 phonegap apps, complex api development, branding, UX, mobile web apps, video on demand service integration",
+            "Created project design / development spec and planed execution",
+            "Worked with a wide range of existing codebases / frameworks in PHP and js"
+         ],
+         "summary":"Full stack development js, PHP, MySql, nodejs",
+         "endDate":"2016-07-19",
+         "startDate":"2011-08-22",
+         "website":"http://emoxie.com",
+         "position":"Senior Web Developer",
+         "company":"e-moxie"
+      },
+      {
+         "highlights":[
+            "Developed front end code focusing on scalable and maintainable implementations compatible with the mobile web",
+            "Created or extended custom content management and integration solutions for Dot Net Nuke, Wordpress, and Drupal based websites",
+            "Managed marketing metrics and reports of web traffic and advertising campagn conversion",
+            "Developed basic web and native applications for iOS and Android platforms (phonegap)"
+         ],
+         "summary":"Front end web app developer",
+         "endDate":"2011-01-14",
+         "startDate":"2010-08-20",
+         "website":"http://www.r2integrated.com/",
+         "position":"Web Developer",
+         "company":"R2integrated"
+      },
+      {
+         "highlights":[
+            "Front end design, code, and ux",
+            "Developed content management solutions and workflows for staff using MSSql",
+            "Managed marketing metrics and reports of web traffic and advertising campagn conversion"
+         ],
+         "summary":"Web operations in a C# .NET environment.",
+         "endDate":"2010-08-20",
+         "startDate":"2008-10-02",
+         "website":"",
+         "position":"Web Developer",
+         "company":"Nutramax Laboratories, Inc"
+      },
+      {
+         "highlights":[
+            "Worked in a collaborative team environment to create web, print, and video products specializing in very short turnaround time",
+            "Provided client services by developing design briefs, negotiating contracts, and managing projects"
+         ],
+         "summary":"Client work",
+         "endDate":"2008-09-07",
+         "startDate":"2006-01-01",
+         "website":"",
+         "position":"Web Developer",
+         "company":"Mediamasters"
+      }
+   ]
+}
