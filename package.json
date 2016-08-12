@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
   	"publish": "resume publish --theme slick",
-  	"build": "resume export index.html --theme slick"
+  	"build": "resume export index.html --theme slick; resume export resume.md.html --theme markdown"
   },
   "author": {
   	"name": "Carl Olsen",
