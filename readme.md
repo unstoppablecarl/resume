@@ -1,4 +1,4 @@
 
-[http://registry.jsonresume.org/unstoppablecarl](http://registry.jsonresume.org/unstoppablecarl)
+[https://unstoppablecarl.github.io/resume/](https://unstoppablecarl.github.io/resume/)
 
-[http://registry.jsonresume.org/unstoppablecarl.json](http://registry.jsonresume.org/unstoppablecarl.json)
+[https://unstoppablecarl.github.io/resume/resume.json](https://unstoppablecarl.github.io/resume/resume.json)
