@@ -1,11 +1,11 @@
 {
    "basics":{
       "name":"Carl Olsen",
-      "label":"Web Developer",
+      "label":"Full Stack Developer",
       "picture":"",
       "email":"unstoppablecarlolsen@gmail.com",
       "phone":"(443) 655-3891",
-      "website":"",
+      "website":"https://unstoppablecarl.github.io/resume",
       "summary":"",
       "location":{
          "address":"23 Ashmill Ct",
@@ -39,24 +39,23 @@
          "name":"Raspberry Pi"
       }
    ],
-   "languages":[
-      {
-         "fluency":"Native speaker",
-         "language":"English"
-      }
-   ],
    "skills":[
       {
+         "name": "Client",
          "keywords":[
-            "HTML",
-            "CSS",
-            "Javascript",
-            "PHP",
-            "MySQL",
-            "nodejs"
-         ],
-         "level":"Ledgendary",
-         "name":"Web Development"
+            "HTML5, Canvas, svg, WebGL",
+            "CSS, Less, Scss",
+            "Javascript, Backbone, Stampit, Ember, Angular, d3"
+            
+         ]
+      },
+      {
+         "name": "Server",
+         "keywords":[
+            "PHP, Laravel, Symfony, Zend",
+            "MySql",
+            "Linux, AWS, S3"
+         ]
       }
    ],
    "volunteer":[

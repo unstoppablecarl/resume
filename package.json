@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-  	"publish": "resume publish --theme slick"
+  	"publish": "resume publish --theme slick",
+  	"build": "resume export index.html --theme slick"
   },
-  "author": ""
+  "author": {
+  	"name": "Carl Olsen",
+  	"email": "unstoppablecarlolsen@gmail.com"
+  }
 }
