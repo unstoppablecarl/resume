@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-  	"publish": "resume publish --theme slick",
-  	"build": "resume export index.html --theme slick; resume export resume.md.html --theme markdown"
+    "publish": "resume publish --theme slick",
+    "generate": "resume export index.html --theme slick; node build.js"
   },
   "author": {
-  	"name": "Carl Olsen",
-  	"email": "unstoppablecarlolsen@gmail.com"
+    "name": "Carl Olsen",
+    "email": "unstoppablecarlolsen@gmail.com"
+  },
+  "dependencies": {
+    "jsonresume-theme-markdown": "^1.0.2"
   }
 }
