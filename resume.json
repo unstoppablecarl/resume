@@ -75,6 +75,18 @@
    "work":[
       {
          "highlights":[
+            "Supervised a range of client web projects and applications",
+            "Developed and executed marking concepts for video and web platforms"
+         ],
+         "summary":"Full stack development js, PHP, MySql, nodejs",
+         "endDate":"2099-01-01",
+         "startDate":"2016-09-06",
+         "website":"http://spark-and-aster.com",
+         "position":"Senior Software Engineer",
+         "company":"spark+aster"
+      },
+      {
+         "highlights":[
             "Developed and maintained in house content management framework (PHP, MySql)",
             "Supervised a wide range of client projects including: ecommerce, custom CMS, document / logistical data tracking and reporting, internal client company operation workflows, HTML5 phonegap apps, complex api development, branding, UX, mobile web apps, video on demand service integration",
             "Created project design / development spec and planed execution",

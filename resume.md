@@ -25,6 +25,14 @@ https://github.com/unstoppablecarl/resume
 
 ## Work
 
+### Senior Software Engineer, [spark+aster](http://spark-and-aster.com)
+##### 2016-09-06 - 2099-01-01
+
+* Supervised a range of client web projects and applications
+* Developed and executed marking concepts for video and web platforms
+
+Full stack development js, PHP, MySql, nodejs
+
 ### Senior Web Developer, [e-moxie](http://emoxie.com)
 ##### 2011-08-22 - 2016-07-19
 
