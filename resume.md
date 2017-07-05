@@ -25,8 +25,14 @@ https://github.com/unstoppablecarl/resume
 
 ## Work
 
+### Senior Software Engineer, [Canton Group](http://cantongroup.com)
+##### 2017-06-15 - 2999-01-01
+
+
+Full stack development js, PHP, MySql, nodejs
+
 ### Senior Software Engineer, [spark+aster](http://spark-and-aster.com)
-##### 2016-09-06 - 2099-01-01
+##### 2016-09-06 - 2019-06-13
 
 * Supervised a range of client web projects and applications
 * Developed and executed marking concepts for video and web platforms
