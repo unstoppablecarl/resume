@@ -1,6 +1,8 @@
-var fs = require('fs');
-var {render} = require('jsonresume-theme-markdown');
+var fs             = require('fs');
+var renderMarkdown = require('jsonresume-theme-markdown').render;
+var renderHtml     = require('./theme-slick').render;
 
-var resumeObject = require('./resume.json');
+var resumeJson = require('./resume.json');
 
-fs.writeFileSync('resume.md', render(resumeObject), 'utf8');
+fs.writeFileSync('index.html', renderHtml(resumeJson), 'utf8');
+fs.writeFileSync('resume.md', renderMarkdown(resumeJson), 'utf8');

@@ -4,13 +4,14 @@
   "description": "",
   "scripts": {
     "publish": "resume publish --theme slick",
-    "generate": "resume export index.html --theme slick; node build.js"
+    "build": "node build.js"
   },
   "author": {
     "name": "Carl Olsen",
     "email": "unstoppablecarlolsen@gmail.com"
   },
   "dependencies": {
+    "handlebars": "^4.0.10",
     "jsonresume-theme-markdown": "^1.0.2"
   }
 }

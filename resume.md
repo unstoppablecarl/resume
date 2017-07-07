@@ -7,10 +7,10 @@
 
 Email: [unstoppablecarlolsen@gmail.com](mailto:unstoppablecarlolsen@gmail.com)  
 Website: [https://unstoppablecarl.github.io/resume](https://unstoppablecarl.github.io/resume)  
-Phone: (443) 655-3891  
-Address: 23 Ashmill Ct  
+
+
 City: Nottingham  
-Postal Code: MD 21236  
+
 Country: US  
 Country: Maryland  
 
@@ -26,10 +26,10 @@ https://github.com/unstoppablecarl/resume
 ## Work
 
 ### Senior Software Engineer, [Canton Group](http://cantongroup.com)
-##### 2017-06-15 - 2999-01-01
+##### 2017-06-15 
 
 
-Full stack development js, PHP, MySql, nodejs
+Full stack development JS, PHP, MySql, nodejs, Laravel, vue.js
 
 ### Senior Software Engineer, [spark+aster](http://spark-and-aster.com)
 ##### 2016-09-06 - 2019-06-13
@@ -79,6 +79,13 @@ Client work
 
 ## Volunteer
 
+### Mentor, [Nodeschool Baltimore](https://nodeschool.io/baltimore/)
+##### 2015-03-29 
+
+* Mentored attendees learning nodejs
+
+Volunteered as a mentor
+
 ### Volunteer, [Digital Harbor Foundation](http://www.digitalharbor.org/)
 ##### 2015-12-01 - 2015-12-01
 
@@ -92,8 +99,10 @@ Volunteered as a coach for the Webslam youth hackathon
 
 ## Skills
 
-* Client (HTML5, Canvas, svg, WebGL, CSS, Less, Scss, Javascript, Backbone, Stampit, Ember, Angular, d3)
-* Server (PHP, Laravel, Symfony, Zend, MySql, Linux, AWS, S3, NodeJS)
+* Client (HTML5: Canvas, svg, WebGL, CSS: Less, Scss, Javascript: Vue, Ember, Backbone, Stampit, d3, Angular, NodeJS: webpack, gulp, metalsmith)
+* Server (Linux: Apache, nginx, vagrant, homestead, PHP: Composer, Laravel, Symfony, Zend, NodeJS: sockets, express)
+* Databases (MySql, msSql, Sqlite, MongoDB)
+* Systems (Bugsnag, Travis CI, AWS, S3, Sendgrid)
 
 
 ## Interests

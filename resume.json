@@ -4,12 +4,9 @@
       "label":"Full Stack Developer",
       "picture":"",
       "email":"unstoppablecarlolsen@gmail.com",
-      "phone":"(443) 655-3891",
       "website":"https://unstoppablecarl.github.io/resume",
       "summary":"https://github.com/unstoppablecarl/resume",
       "location":{
-         "address":"23 Ashmill Ct",
-         "postalCode":"MD 21236",
          "city":"Nottingham",
          "countryCode":"US",
          "region":"Maryland"
@@ -43,23 +40,51 @@
       {
          "name": "Client",
          "keywords":[
-            "HTML5, Canvas, svg, WebGL",
-            "CSS, Less, Scss",
-            "Javascript, Backbone, Stampit, Ember, Angular, d3"
-            
+            "HTML5: Canvas, svg, WebGL",
+            "CSS: Less, Scss",
+            "Javascript: Vue, Ember, Backbone, Stampit, d3, Angular",
+            "NodeJS: webpack, gulp, metalsmith"
          ]
       },
       {
          "name": "Server",
          "keywords":[
-            "PHP, Laravel, Symfony, Zend",
+            "Linux: Apache, nginx, vagrant, homestead",
+            "PHP: Composer, Laravel, Symfony, Zend",
+            "NodeJS: sockets, express"
+         ]
+      },
+      {
+         "name": "Databases",
+         "keywords": [
             "MySql",
-            "Linux, AWS, S3",
-            "NodeJS"
+            "msSql",
+            "Sqlite",
+            "MongoDB"
+         ]
+      },
+      {
+         "name": "Systems",
+         "keywords": [
+            "Bugsnag",
+            "Travis CI",
+            "AWS",
+            "S3",
+            "Sendgrid"
          ]
       }
    ],
    "volunteer":[
+      {
+         "highlights":[
+            "Mentored attendees learning nodejs"
+         ],
+         "summary":"Volunteered as a mentor",
+         "startDate":"2015-03-29",
+         "website":"https://nodeschool.io/baltimore/",
+         "position":"Mentor",
+         "organization":"Nodeschool Baltimore"
+      },
       {
          "highlights":[
             "Worked with youth to develop a wordpress website in one day for a local non-profit"
@@ -77,8 +102,7 @@
          "highlights":[
 
          ],
-         "summary":"Full stack development js, PHP, MySql, nodejs",
-         "endDate":"2999-01-01",
+         "summary":"Full stack development JS, PHP, MySql, nodejs, Laravel, vue.js",
          "startDate":"2017-06-15",
          "website":"http://cantongroup.com",
          "position":"Senior Software Engineer",
