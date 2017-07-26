@@ -32,7 +32,7 @@ https://github.com/unstoppablecarl/resume
 Full stack development JS, PHP, MySql, nodejs, Laravel, vue.js
 
 ### Senior Software Engineer, [spark+aster](http://spark-and-aster.com)
-##### 2016-09-06 - 2019-06-13
+##### 2016-09-06 - 2017-06-13
 
 * Supervised a range of client web projects and applications
 * Developed and executed marking concepts for video and web platforms
