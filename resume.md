@@ -25,11 +25,17 @@ https://github.com/unstoppablecarl/resume
 
 ## Work
 
-### Senior Software Engineer, [Canton Group](http://cantongroup.com)
-##### 2017-06-15 
+### Senior Software Engineer, [Fire Engine Red](http://fire-engine-red.com)
+##### 2017-09-11 - 2018-03-02
 
+* Maintained and developed SAAS CRM that manages large amounts of student relational data for college admissions
+* Collaborated with business staff to design features and create deployment plans
+* Optimized performance of PHP code and MySQL queries for back-end Job Queue execution
+* Helped created code standards and lead discussions to improve code quality and maintainability
+* Designed architecture for front-end Vue components and data transport layer
+* Worked effectively with a large 100% remote team
 
-Full stack development JS, PHP, MySql, nodejs, Laravel, vue.js
+Full stack development, PHP, Laravel, MySql, mariaDB, redis, JS, webpack, Vue.js
 
 ### Senior Software Engineer, [spark+aster](http://spark-and-aster.com)
 ##### 2016-09-06 - 2017-06-13
@@ -37,7 +43,7 @@ Full stack development JS, PHP, MySql, nodejs, Laravel, vue.js
 * Supervised a range of client web projects and applications
 * Developed and executed marking concepts for video and web platforms
 
-Full stack development js, PHP, MySql, nodejs
+Full stack development, js, PHP, MySql, nodejs
 
 ### Senior Web Developer, [e-moxie](http://emoxie.com)
 ##### 2011-08-22 - 2016-07-19
@@ -47,7 +53,7 @@ Full stack development js, PHP, MySql, nodejs
 * Created project design / development spec and planed execution
 * Worked with a wide range of existing codebases / frameworks in PHP and js
 
-Full stack development js, PHP, MySql, nodejs
+Full stack developmen, js, PHP, MySql, nodejs
 
 ### Web Developer, [R2integrated](http://www.r2integrated.com/)
 ##### 2011-01-07 - 2011-08-20
@@ -99,9 +105,9 @@ Volunteered as a coach for the Webslam youth hackathon
 
 ## Skills
 
-* Client (HTML5: Canvas, svg, WebGL, CSS: Less, Scss, Javascript: Vue, Ember, Backbone, Stampit, d3, Angular, NodeJS: webpack, gulp, metalsmith)
-* Server (Linux: Apache, nginx, vagrant, homestead, PHP: Composer, Laravel, Symfony, Zend, NodeJS: sockets, express)
-* Databases (MySql, msSql, Sqlite, MongoDB)
+* Client (HTML5: Canvas, svg, WebGL, CSS: Less, Scss, Javascript: Vue, Ember, Backbone, Stampit, d3, Angular, NodeJS: Webpack, Gulp, Metalsmith)
+* Server (Linux: Apache, nginx, vagrant, homestead, PHP: Composer, Laravel, Symfony, Zend, NodeJS: sockets, express, Cache: redis, memcached)
+* Databases (MySql, mariaDB, msSql, Sqlite, MongoDB)
 * Systems (Bugsnag, Travis CI, AWS, S3, Sendgrid)
 
 

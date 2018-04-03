@@ -43,7 +43,7 @@
             "HTML5: Canvas, svg, WebGL",
             "CSS: Less, Scss",
             "Javascript: Vue, Ember, Backbone, Stampit, d3, Angular",
-            "NodeJS: webpack, gulp, metalsmith"
+            "NodeJS: Webpack, Gulp, Metalsmith"
          ]
       },
       {
@@ -51,13 +51,15 @@
          "keywords":[
             "Linux: Apache, nginx, vagrant, homestead",
             "PHP: Composer, Laravel, Symfony, Zend",
-            "NodeJS: sockets, express"
+            "NodeJS: sockets, express",
+            "Cache: redis, memcached"
          ]
       },
       {
          "name": "Databases",
          "keywords": [
             "MySql",
+            "mariaDB",
             "msSql",
             "Sqlite",
             "MongoDB"
@@ -100,20 +102,26 @@
    "work":[
       {
          "highlights":[
-
+            "Maintained and developed SAAS CRM that manages large amounts of student relational data for college admissions",
+            "Collaborated with business staff to design features and create deployment plans",
+            "Optimized performance of PHP code and MySQL queries for back-end Job Queue execution",
+            "Helped created code standards and lead discussions to improve code quality and maintainability",
+            "Designed architecture for front-end Vue components and data transport layer",
+            "Worked effectively with a large 100% remote team"
          ],
-         "summary":"Full stack development JS, PHP, MySql, nodejs, Laravel, vue.js",
-         "startDate":"2017-06-15",
-         "website":"http://cantongroup.com",
+         "summary":"Full stack development, PHP, Laravel, MySql, mariaDB, redis, JS, webpack, Vue.js",
+         "startDate":"2017-09-11",
+         "endDate": "2018-03-02",
+         "website":"http://fire-engine-red.com",
          "position":"Senior Software Engineer",
-         "company":"Canton Group"
+         "company":"Fire Engine Red"
       },
       {
          "highlights":[
             "Supervised a range of client web projects and applications",
             "Developed and executed marking concepts for video and web platforms"
          ],
-         "summary":"Full stack development js, PHP, MySql, nodejs",
+         "summary":"Full stack development, js, PHP, MySql, nodejs",
          "endDate":"2017-06-13",
          "startDate":"2016-09-06",
          "website":"http://spark-and-aster.com",
@@ -127,7 +135,7 @@
             "Created project design / development spec and planed execution",
             "Worked with a wide range of existing codebases / frameworks in PHP and js"
          ],
-         "summary":"Full stack development js, PHP, MySql, nodejs",
+         "summary":"Full stack developmen, js, PHP, MySql, nodejs",
          "endDate":"2016-07-19",
          "startDate":"2011-08-22",
          "website":"http://emoxie.com",
