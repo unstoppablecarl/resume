@@ -26,7 +26,7 @@ https://github.com/unstoppablecarl/resume
 ## Work
 
 ### Senior Software Engineer, [Fire Engine Red](http://fire-engine-red.com)
-##### 2017-09-11 - 2018-03-02
+##### 2017-09-11 - 2018-05-02
 
 * Maintained and developed SAAS CRM that manages large amounts of student relational data for college admissions
 * Collaborated with business staff to design features and create deployment plans
