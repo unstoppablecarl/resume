@@ -25,6 +25,16 @@ https://github.com/unstoppablecarl/resume
 
 ## Work
 
+### Senior Software Engineer, [Online Learning Consortium](https://onlinelearningconsortium.org/)
+##### 2018-5-13 
+
+* Oversaw migration of distributed company data into a single a salesforce location
+* Created applications to support conference logistics
+* Provided technical and software support to company staff
+* Architected content provisioning systems
+
+Full stack development, PHP, Laravel, Drupal, MySql, JS, webpack, React, CouchDB
+
 ### Senior Software Engineer, [Fire Engine Red](http://fire-engine-red.com)
 ##### 2017-09-11 - 2018-05-02
 

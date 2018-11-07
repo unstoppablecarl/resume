@@ -100,6 +100,19 @@
       }
    ],
    "work":[
+   	{
+		"highlights":[
+            "Oversaw migration of distributed company data into a single a salesforce location",
+            "Created applications to support conference logistics",
+            "Provided technical and software support to company staff",
+            "Architected content provisioning systems"
+         ],
+     	"summary":"Full stack development, PHP, Laravel, Drupal, MySql, JS, webpack, React, CouchDB",
+   		"startDate": "2018-5-13",
+   		"website":"https://onlinelearningconsortium.org/",
+   		"position":"Senior Software Engineer",
+        "company":"Online Learning Consortium"
+   	},
       {
          "highlights":[
             "Maintained and developed SAAS CRM that manages large amounts of student relational data for college admissions",
