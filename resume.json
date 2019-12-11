@@ -1,198 +1,229 @@
 {
-   "basics":{
-      "name":"Carl Olsen",
-      "label":"Full Stack Developer",
-      "picture":"",
-      "email":"unstoppablecarlolsen@gmail.com",
-      "website":"https://unstoppablecarl.github.io/resume",
-      "summary":"https://github.com/unstoppablecarl/resume",
-      "location":{
-         "city":"Nottingham",
-         "countryCode":"US",
-         "region":"Maryland"
-      },
-      "profiles":[
-         {
-            "url":"http://twitter.com/unstoppablecarl",
-            "username":"unstoppableCarl",
-            "network":"Twitter"
-         },
-         {
-            "url":"https://github.com/unstoppablecarl",
-            "username":"unstoppableCarl",
-            "network":"Github"
-         }
-      ]
-   },
-   "interests":[
-      {
-         "keywords":[
-            "Phaser.io",
-            "PIXI.js"
-         ],
-         "name":"HTML5 Games"
-      },
-      {
-         "name":"Raspberry Pi"
-      }
-   ],
-   "skills":[
-      {
-         "name": "Client",
-         "keywords":[
-            "HTML5: Canvas, svg, WebGL",
-            "CSS: Less, Scss",
-            "Javascript: Vue, Ember, Backbone, Stampit, d3, Angular",
-            "NodeJS: Webpack, Gulp, Metalsmith"
-         ]
-      },
-      {
-         "name": "Server",
-         "keywords":[
-            "Linux: Apache, nginx, vagrant, homestead",
-            "PHP: Composer, Laravel, Symfony, Zend",
-            "NodeJS: sockets, express",
-            "Cache: redis, memcached"
-         ]
-      },
-      {
-         "name": "Databases",
-         "keywords": [
-            "MySql",
-            "mariaDB",
-            "msSql",
-            "Sqlite",
-            "MongoDB"
-         ]
-      },
-      {
-         "name": "Systems",
-         "keywords": [
-            "Bugsnag",
-            "Travis CI",
-            "AWS",
-            "S3",
-            "Sendgrid"
-         ]
-      }
-   ],
-   "volunteer":[
-      {
-         "highlights":[
-            "Mentored attendees learning nodejs"
-         ],
-         "summary":"Volunteered as a mentor",
-         "startDate":"2015-03-29",
-         "website":"https://nodeschool.io/baltimore/",
-         "position":"Mentor",
-         "organization":"Nodeschool Baltimore"
-      },
-      {
-         "highlights":[
-            "Worked with youth to develop a wordpress website in one day for a local non-profit"
-         ],
-         "summary":"Volunteered as a coach for the Webslam youth hackathon",
-         "endDate":"2015-12-01",
-         "startDate":"2015-12-01",
-         "website":"http://www.digitalharbor.org/",
-         "position":"Volunteer",
-         "organization":"Digital Harbor Foundation"
-      }
-   ],
-   "work":[
-   	{
-		"highlights":[
-            "Oversaw migration of distributed company data into a single a salesforce location",
-            "Created applications to support conference logistics",
-            "Provided technical and software support to company staff",
-            "Architected content provisioning systems"
-         ],
-     	"summary":"Full stack development, PHP, Laravel, Drupal, MySql, JS, webpack, React, CouchDB",
-   		"startDate": "2018-5-13",
-   		"website":"https://onlinelearningconsortium.org/",
-   		"position":"Senior Software Engineer",
-        "company":"Online Learning Consortium"
-   	},
-      {
-         "highlights":[
-            "Maintained and developed SAAS CRM that manages large amounts of student relational data for college admissions",
-            "Collaborated with business staff to design features and create deployment plans",
-            "Optimized performance of PHP code and MySQL queries for back-end Job Queue execution",
-            "Helped created code standards and lead discussions to improve code quality and maintainability",
-            "Designed architecture for front-end Vue components and data transport layer",
-            "Worked effectively with a large 100% remote team"
-         ],
-         "summary":"Full stack development, PHP, Laravel, MySql, mariaDB, redis, JS, webpack, Vue.js",
-         "startDate":"2017-09-11",
-         "endDate": "2018-05-02",
-         "website":"http://fire-engine-red.com",
-         "position":"Senior Software Engineer",
-         "company":"Fire Engine Red"
-      },
-      {
-         "highlights":[
-            "Supervised a range of client web projects and applications",
-            "Developed and executed marking concepts for video and web platforms"
-         ],
-         "summary":"Full stack development, js, PHP, MySql, nodejs",
-         "endDate":"2017-06-13",
-         "startDate":"2016-09-06",
-         "website":"http://spark-and-aster.com",
-         "position":"Senior Software Engineer",
-         "company":"spark+aster"
-      },
-      {
-         "highlights":[
-            "Developed and maintained in house content management framework (PHP, MySql)",
-            "Supervised a wide range of client projects including: ecommerce, custom CMS, document / logistical data tracking and reporting, internal client company operation workflows, HTML5 phonegap apps, complex api development, branding, UX, mobile web apps, video on demand service integration",
-            "Created project design / development spec and planed execution",
-            "Worked with a wide range of existing codebases / frameworks in PHP and js"
-         ],
-         "summary":"Full stack developmen, js, PHP, MySql, nodejs",
-         "endDate":"2016-07-19",
-         "startDate":"2011-08-22",
-         "website":"http://emoxie.com",
-         "position":"Senior Web Developer",
-         "company":"e-moxie"
-      },
-      {
-         "highlights":[
-            "Developed front end code focusing on scalable and maintainable implementations compatible with the mobile web",
-            "Created or extended custom content management and integration solutions for Dot Net Nuke, Wordpress, and Drupal based websites",
-            "Managed marketing metrics and reports of web traffic and advertising campagn conversion",
-            "Developed basic web and native applications for iOS and Android platforms (phonegap)"
-         ],
-         "summary":"Front end web app developer",
-         "endDate":"2011-08-20",
-         "startDate":"2011-01-07",
-         "website":"http://www.r2integrated.com/",
-         "position":"Web Developer",
-         "company":"R2integrated"
-      },
-      {
-         "highlights":[
-            "Front end design, code, and ux",
-            "Developed content management solutions and workflows for staff using MSSql",
-            "Managed marketing metrics and reports of web traffic and advertising campagn conversion"
-         ],
-         "summary":"Web operations in a C# .NET environment.",
-         "endDate":"2011-01-04",
-         "startDate":"2009-02-02",
-         "website":"",
-         "position":"Web Developer",
-         "company":"Nutramax Laboratories, Inc"
-      },
-      {
-         "highlights":[
-            "Worked in a collaborative team environment to create web, print, and video products specializing in very short turnaround time",
-            "Provided client services by developing design briefs, negotiating contracts, and managing projects"
-         ],
-         "summary":"Client work",
-         "endDate":"2008-09-07",
-         "startDate":"2006-01-01",
-         "website":"",
-         "position":"Web Developer",
-         "company":"Mediamasters"
-      }
-   ]
+    "basics": {
+        "name": "Carl Olsen",
+        "label": "Full Stack Developer",
+        "picture": "",
+        "email": "unstoppablecarlolsen@gmail.com",
+        "website": "https://unstoppablecarl.github.io/resume",
+        "summary": "https://github.com/unstoppablecarl/resume",
+        "location": {
+            "city": "Nottingham",
+            "countryCode": "US",
+            "region": "Maryland"
+        },
+        "profiles": [
+            {
+                "url": "https://github.com/unstoppablecarl",
+                "username": "unstoppableCarl",
+                "network": "Github"
+            }
+        ]
+    },
+    "interests": [
+        {
+            "name": "Travel"
+        },
+        {
+            "name": "Animation"
+        },
+        {
+            "name": "Raspberry Pi"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Leadership",
+            "keywords": [
+                "Scrum",
+                "Project Management",
+                "Architecture",
+                "Hiring",
+                "Mentoring"
+            ]
+        },
+        {
+            "name": "Client",
+            "keywords": [
+                "HTML5: Canvas, svg, WebGL",
+                "CSS: Less, Scss",
+                "Javascript: VueJS, Ember, Backbone, Stampit, d3, Angular",
+                "NodeJS: Webpack, Gulp, Metalsmith"
+            ]
+        },
+        {
+            "name": "Server",
+            "keywords": [
+                "Linux: Apache, nginx, vagrant, homestead",
+                "PHP: Composer, Laravel, Symfony, Zend",
+                "NodeJS: sockets, express",
+                "Cache: redis, memcached"
+            ]
+        },
+        {
+            "name": "Databases",
+            "keywords": [
+                "MySql",
+                "mariaDB",
+                "msSql",
+                "Sqlite",
+                "MongoDB"
+            ]
+        },
+        {
+            "name": "Systems",
+            "keywords": [
+                "AWS",
+                "Blackfire",
+                "Bugsnag",
+                "Circle CI",
+                "S3",
+                "Sendgrid",
+                "Stripe",
+                "Paypal",
+                "Travis CI"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "highlights": [
+                "Worked one on one with teachers to prepare them for giving an coding intro lesson to their students"
+            ],
+            "summary": "Helped teachers and students learn about coding",
+            "startDate": "2017-11-01",
+            "website": "http://code.org/",
+            "position": "Mentor",
+            "organization": "Nodeschool Baltimore"
+        },
+        {
+            "highlights": [
+                "Worked one on one with students to work through parts of the lesson they were struggling with"
+            ],
+            "summary": "Volunteered to help students through a self guided intro to javascript",
+            "startDate": "2015-03-29",
+            "website": "https://nodeschool.io/baltimore/",
+            "position": "Mentor",
+            "organization": "Nodeschool Baltimore"
+        },
+        {
+            "highlights": [
+                "Worked with youth to develop a wordpress website in one day for a local non-profit"
+            ],
+            "summary": "Volunteered as a coach for the Webslam youth hackathon",
+            "endDate": "2015-12-01",
+            "startDate": "2015-12-01",
+            "website": "http://www.digitalharbor.org/",
+            "position": "Volunteer",
+            "organization": "Digital Harbor Foundation"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Coordinated planning, architecture, feature development, and maintenance of motionarray.com . A subscription service library of over 200K video asset files",
+                "Defined and facilitated development testing practices, code standards, and procedures for remote dev team of 6 across 4 timezones/countries",
+                "Managed job posting, interview process, and hiring",
+                "Maintained subscription and content creator payments systems with paypal and stripe"
+            ],
+            "summary": "Team Lead, Full stack development, PHP, Laravel, MySql, JS, VueJS, webpack",
+            "startDate": "2019-2-25",
+            "website": "https://motionarray.com/",
+            "position": "Dev Team Lead",
+            "company": "404 Media LLC"
+        },
+        {
+            "highlights": [
+                "Oversaw migration of distributed company data into a single salesforce location",
+                "Created applications to support conference logistics",
+                "Provided technical and software support to company staff",
+                "Architected content provisioning systems"
+            ],
+            "summary": "Full stack development, PHP, Laravel, Drupal, MySql, JS, webpack, React, CouchDB",
+            "startDate": "2018-5-13",
+            "endDate": "2019-02-22",
+            "website": "https://onlinelearningconsortium.org/",
+            "position": "Senior Software Engineer",
+            "company": "Online Learning Consortium"
+        },
+        {
+            "highlights": [
+                "Maintained and developed SAAS CRM that manages large amounts of student relational data for college admissions",
+                "Collaborated with business staff to design features and create deployment plans",
+                "Optimized performance of PHP code and MySQL queries for back-end Job Queue execution",
+                "Helped created code standards and lead discussions to improve code quality and maintainability",
+                "Designed architecture for front-end Vue components and data transport layer",
+                "Worked effectively with a large 100% remote team"
+            ],
+            "summary": "Full stack development, PHP, Laravel, MySql, mariaDB, redis, JS, webpack, VueJS",
+            "startDate": "2017-09-11",
+            "endDate": "2018-05-02",
+            "website": "http://fire-engine-red.com",
+            "position": "Senior Software Engineer",
+            "company": "Fire Engine Red"
+        },
+        {
+            "highlights": [
+                "Supervised a range of client web projects and applications",
+                "Developed and executed marking concepts for video and web platforms"
+            ],
+            "summary": "Full stack development, js, PHP, MySql, nodejs",
+            "endDate": "2017-06-13",
+            "startDate": "2016-09-06",
+            "website": "http://spark-and-aster.com",
+            "position": "Senior Software Engineer",
+            "company": "spark+aster"
+        },
+        {
+            "highlights": [
+                "Developed and maintained in house content management framework (PHP, MySql)",
+                "Supervised a wide range of client projects including: ecommerce, custom CMS, document / logistical data tracking and reporting, internal client company operation workflows, HTML5 phonegap apps, complex api development, branding, UX, mobile web apps, video on demand service integration",
+                "Created project design / development spec and planed execution",
+                "Worked with a wide range of existing codebases / frameworks in PHP and js"
+            ],
+            "summary": "Full stack development, js, PHP, MySql, nodejs",
+            "endDate": "2016-07-19",
+            "startDate": "2011-08-22",
+            "website": "http://emoxie.com",
+            "position": "Senior Web Developer",
+            "company": "e-moxie"
+        },
+        {
+            "highlights": [
+                "Developed front end code focusing on scalable and maintainable implementations compatible with the mobile web",
+                "Created or extended custom content management and integration solutions for Dot Net Nuke, Wordpress, and Drupal based websites",
+                "Developed basic web and native applications for iOS and Android platforms (phonegap)"
+            ],
+            "summary": "Front end web app developer",
+            "endDate": "2011-08-20",
+            "startDate": "2011-01-07",
+            "website": "http://www.r2integrated.com/",
+            "position": "Web Developer",
+            "company": "R2integrated"
+        },
+        {
+            "highlights": [
+                "Front end design, code, and ux",
+                "Developed content management solutions and workflows for staff using MSSql",
+                "Managed marketing metrics and reports of web traffic and advertising campaign conversions"
+            ],
+            "summary": "Web operations in a C# .NET environment.",
+            "endDate": "2011-01-04",
+            "startDate": "2009-02-02",
+            "website": "",
+            "position": "Web Developer",
+            "company": "Nutramax Laboratories, Inc"
+        },
+        {
+            "highlights": [
+                "Worked in a collaborative team environment to create web, print, and video products specializing in very short turnaround time",
+                "Provided client services by developing design briefs, negotiating contracts, and managing projects"
+            ],
+            "summary": "Client work",
+            "endDate": "2008-09-07",
+            "startDate": "2006-01-01",
+            "website": "",
+            "position": "Web Developer",
+            "company": "Mediamasters"
+        }
+    ]
 }

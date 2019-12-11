@@ -16,7 +16,6 @@ Country: Maryland
 
 ## Profiles
 
-[Twitter - unstoppableCarl](http://twitter.com/unstoppablecarl)  
 [Github - unstoppableCarl](https://github.com/unstoppablecarl)  
 
 ## Summary
@@ -25,10 +24,20 @@ https://github.com/unstoppablecarl/resume
 
 ## Work
 
-### Senior Software Engineer, [Online Learning Consortium](https://onlinelearningconsortium.org/)
-##### 2018-5-13 
+### Dev Team Lead, [404 Media LLC](https://motionarray.com/)
+##### 2019-2-25 
 
-* Oversaw migration of distributed company data into a single a salesforce location
+* Coordinated planning, architecture, feature development, and maintenance of motionarray.com . A subscription service library of over 200K video asset files
+* Defined and facilitated development testing practices, code standards, and procedures for remote dev team of 6 across 4 timezones/countries
+* Managed job posting, interview process, and hiring
+* Maintained subscription and content creator payments systems with paypal and stripe
+
+Team Lead, Full stack development, PHP, Laravel, MySql, JS, VueJS, webpack
+
+### Senior Software Engineer, [Online Learning Consortium](https://onlinelearningconsortium.org/)
+##### 2018-5-13 - 2019-02-22
+
+* Oversaw migration of distributed company data into a single salesforce location
 * Created applications to support conference logistics
 * Provided technical and software support to company staff
 * Architected content provisioning systems
@@ -45,7 +54,7 @@ Full stack development, PHP, Laravel, Drupal, MySql, JS, webpack, React, CouchDB
 * Designed architecture for front-end Vue components and data transport layer
 * Worked effectively with a large 100% remote team
 
-Full stack development, PHP, Laravel, MySql, mariaDB, redis, JS, webpack, Vue.js
+Full stack development, PHP, Laravel, MySql, mariaDB, redis, JS, webpack, VueJS
 
 ### Senior Software Engineer, [spark+aster](http://spark-and-aster.com)
 ##### 2016-09-06 - 2017-06-13
@@ -63,14 +72,13 @@ Full stack development, js, PHP, MySql, nodejs
 * Created project design / development spec and planed execution
 * Worked with a wide range of existing codebases / frameworks in PHP and js
 
-Full stack developmen, js, PHP, MySql, nodejs
+Full stack development, js, PHP, MySql, nodejs
 
 ### Web Developer, [R2integrated](http://www.r2integrated.com/)
 ##### 2011-01-07 - 2011-08-20
 
 * Developed front end code focusing on scalable and maintainable implementations compatible with the mobile web
 * Created or extended custom content management and integration solutions for Dot Net Nuke, Wordpress, and Drupal based websites
-* Managed marketing metrics and reports of web traffic and advertising campagn conversion
 * Developed basic web and native applications for iOS and Android platforms (phonegap)
 
 Front end web app developer
@@ -80,7 +88,7 @@ Front end web app developer
 
 * Front end design, code, and ux
 * Developed content management solutions and workflows for staff using MSSql
-* Managed marketing metrics and reports of web traffic and advertising campagn conversion
+* Managed marketing metrics and reports of web traffic and advertising campaign conversions
 
 Web operations in a C# .NET environment.
 
@@ -95,12 +103,19 @@ Client work
 
 ## Volunteer
 
+### Mentor, [Nodeschool Baltimore](http://code.org/)
+##### 2017-11-01 
+
+* Worked one on one with teachers to prepare them for giving an coding intro lesson to their students
+
+Helped teachers and students learn about coding
+
 ### Mentor, [Nodeschool Baltimore](https://nodeschool.io/baltimore/)
 ##### 2015-03-29 
 
-* Mentored attendees learning nodejs
+* Worked one on one with students to work through parts of the lesson they were struggling with
 
-Volunteered as a mentor
+Volunteered to help students through a self guided intro to javascript
 
 ### Volunteer, [Digital Harbor Foundation](http://www.digitalharbor.org/)
 ##### 2015-12-01 - 2015-12-01
@@ -115,14 +130,16 @@ Volunteered as a coach for the Webslam youth hackathon
 
 ## Skills
 
-* Client (HTML5: Canvas, svg, WebGL, CSS: Less, Scss, Javascript: Vue, Ember, Backbone, Stampit, d3, Angular, NodeJS: Webpack, Gulp, Metalsmith)
+* Leadership (Scrum, Project Management, Architecture, Hiring, Mentoring)
+* Client (HTML5: Canvas, svg, WebGL, CSS: Less, Scss, Javascript: VueJS, Ember, Backbone, Stampit, d3, Angular, NodeJS: Webpack, Gulp, Metalsmith)
 * Server (Linux: Apache, nginx, vagrant, homestead, PHP: Composer, Laravel, Symfony, Zend, NodeJS: sockets, express, Cache: redis, memcached)
 * Databases (MySql, mariaDB, msSql, Sqlite, MongoDB)
-* Systems (Bugsnag, Travis CI, AWS, S3, Sendgrid)
+* Systems (AWS, Blackfire, Bugsnag, Circle CI, S3, Sendgrid, Stripe, Paypal, Travis CI)
 
 
 ## Interests
 
-* HTML5 Games (Phaser.io, PIXI.js)
+* Travel
+* Animation
 * Raspberry Pi
 
