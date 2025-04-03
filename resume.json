@@ -24,10 +24,10 @@
             "name": "Travel"
         },
         {
-            "name": "Animation"
+            "name": "3D Modeling and Animation"
         },
         {
-            "name": "Raspberry Pi"
+            "name": "3D Printing"
         }
     ],
     "skills": [
@@ -120,6 +120,20 @@
     "work": [
         {
             "highlights": [
+                "Designed and maintained Lumen microservice architecture for user subscription and access management",
+                "Created realtime microservice error tracking system allowing error propagation tracing across services",
+                "Created microservice api framework and composer packages for cross service communication updates",
+                "Created microservice api communication testing framework"
+            ],
+            "summary": "AWS microservice architecture, PHP, Laravel, MySql, JS, VueJS, webpack",
+            "startDate": "2019-2-25",
+            "endDate": "2019-12-11",
+            "website": "https://ine.com/",
+            "position": "Sr Software Engineer",
+            "company": "INE"
+        },
+        {
+            "highlights": [
                 "Coordinated planning, architecture, feature development, and maintenance of motionarray.com . A subscription service library of over 200K video asset files",
                 "Defined and facilitated development testing practices, code standards, and procedures for remote dev team of 6 across 4 timezones/countries",
                 "Managed job posting, interview process, and hiring",
@@ -127,6 +141,7 @@
             ],
             "summary": "Team Lead, Full stack development, PHP, Laravel, MySql, JS, VueJS, webpack",
             "startDate": "2019-2-25",
+            "endDate": "2019-12-11",
             "website": "https://motionarray.com/",
             "position": "Dev Team Lead",
             "company": "404 Media LLC"

@@ -24,8 +24,18 @@ https://github.com/unstoppablecarl/resume
 
 ## Work
 
+### Sr Software Engineer, [INE](https://ine.com/)
+##### 2019-2-25 - 2019-12-11
+
+* Designed and maintained Lumen microservice architecture for user subscription and access management
+* Created realtime microservice error tracking system allowing error propagation tracing across services
+* Created microservice api framework and composer packages for cross service communication updates
+* Created microservice api communication testing framework
+
+AWS microservice architecture, PHP, Laravel, MySql, JS, VueJS, webpack
+
 ### Dev Team Lead, [404 Media LLC](https://motionarray.com/)
-##### 2019-2-25 
+##### 2019-2-25 - 2019-12-11
 
 * Coordinated planning, architecture, feature development, and maintenance of motionarray.com . A subscription service library of over 200K video asset files
 * Defined and facilitated development testing practices, code standards, and procedures for remote dev team of 6 across 4 timezones/countries
@@ -140,6 +150,6 @@ Volunteered as a coach for the Webslam youth hackathon
 ## Interests
 
 * Travel
-* Animation
-* Raspberry Pi
+* 3D Modeling and Animation
+* 3D Printing
 
