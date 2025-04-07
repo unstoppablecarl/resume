@@ -24,6 +24,15 @@ https://github.com/unstoppablecarl/resume
 
 ## Work
 
+### Freelance Software Engineer, Consultant
+##### 2019-12-20 
+
+* Web application scalability development and consulting
+* Database and cache optimization
+* Automated testing and CI pipelines
+
+PHP, Laravel, MySql, JS, VueJS, python
+
 ### Sr Software Engineer, [INE](https://ine.com/)
 ##### 2019-2-25 - 2019-12-11
 
@@ -42,7 +51,7 @@ AWS microservice architecture, PHP, Laravel, MySql, JS, VueJS, webpack
 * Managed job posting, interview process, and hiring
 * Maintained subscription and content creator payments systems with paypal and stripe
 
-Team Lead, Full stack development, PHP, Laravel, MySql, JS, VueJS, webpack
+Team Lead, Full stack development, PHP, Laravel, MySql, JS, VueJS, webpack, Algolia, elastic search
 
 ### Senior Software Engineer, [Online Learning Consortium](https://onlinelearningconsortium.org/)
 ##### 2018-5-13 - 2019-02-22

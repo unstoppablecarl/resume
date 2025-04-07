@@ -120,6 +120,17 @@
     "work": [
         {
             "highlights": [
+                "Web application scalability development and consulting",
+                "Database and cache optimization",
+                "Automated testing and CI pipelines"
+            ],
+            "summary": "PHP, Laravel, MySql, JS, VueJS, python",
+            "startDate": "2019-12-20",
+            "position": "Freelance Software Engineer",
+            "company": "Consultant"
+        },
+        {
+            "highlights": [
                 "Designed and maintained Lumen microservice architecture for user subscription and access management",
                 "Created realtime microservice error tracking system allowing error propagation tracing across services",
                 "Created microservice api framework and composer packages for cross service communication updates",
@@ -139,7 +150,7 @@
                 "Managed job posting, interview process, and hiring",
                 "Maintained subscription and content creator payments systems with paypal and stripe"
             ],
-            "summary": "Team Lead, Full stack development, PHP, Laravel, MySql, JS, VueJS, webpack",
+            "summary": "Team Lead, Full stack development, PHP, Laravel, MySql, JS, VueJS, webpack, Algolia, elastic search",
             "startDate": "2019-2-25",
             "endDate": "2019-12-11",
             "website": "https://motionarray.com/",
