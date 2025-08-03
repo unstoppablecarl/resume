@@ -25,7 +25,7 @@ https://github.com/unstoppablecarl/resume
 ## Work
 
 ### Freelance Software Engineer, Consultant
-##### 2019-12-20 
+##### 2022-05-22 
 
 * Web application scalability development and consulting
 * Database and cache optimization
@@ -34,7 +34,7 @@ https://github.com/unstoppablecarl/resume
 PHP, Laravel, MySql, JS, VueJS, python
 
 ### Sr Software Engineer, [INE](https://ine.com/)
-##### 2019-2-25 - 2019-12-11
+##### 2021-2-09 - 2022-05-22
 
 * Designed and maintained Lumen microservice architecture for user subscription and access management
 * Created realtime microservice error tracking system allowing error propagation tracing across services

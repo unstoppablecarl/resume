@@ -125,7 +125,7 @@
                 "Automated testing and CI pipelines"
             ],
             "summary": "PHP, Laravel, MySql, JS, VueJS, python",
-            "startDate": "2019-12-20",
+            "startDate": "2022-05-22",
             "position": "Freelance Software Engineer",
             "company": "Consultant"
         },
@@ -137,8 +137,8 @@
                 "Created microservice api communication testing framework"
             ],
             "summary": "AWS microservice architecture, PHP, Laravel, MySql, JS, VueJS, webpack",
-            "startDate": "2019-2-25",
-            "endDate": "2019-12-11",
+            "startDate": "2021-2-09",
+            "endDate": "2022-05-22",
             "website": "https://ine.com/",
             "position": "Sr Software Engineer",
             "company": "INE"
