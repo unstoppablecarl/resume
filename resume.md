@@ -27,6 +27,7 @@ https://github.com/unstoppablecarl/resume
 ### Freelance Software Engineer, Consultant
 ##### 2022-05-22 
 
+* Enterprise web application development
 * Web application scalability development and consulting
 * Database and cache optimization
 * Automated testing and CI pipelines
@@ -75,7 +76,7 @@ Full stack development, PHP, Laravel, Drupal, MySql, JS, webpack, React, CouchDB
 
 Full stack development, PHP, Laravel, MySql, mariaDB, redis, JS, webpack, VueJS
 
-### Senior Software Engineer, [spark+aster](http://spark-and-aster.com)
+### Senior Software Engineer, [BCG](https://agencybcg.com/)
 ##### 2016-09-06 - 2017-06-13
 
 * Supervised a range of client web projects and applications

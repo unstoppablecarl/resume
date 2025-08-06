@@ -120,6 +120,7 @@
     "work": [
         {
             "highlights": [
+                "Enterprise web application development",
                 "Web application scalability development and consulting",
                 "Database and cache optimization",
                 "Automated testing and CI pipelines"
@@ -195,9 +196,9 @@
             "summary": "Full stack development, js, PHP, MySql, nodejs",
             "endDate": "2017-06-13",
             "startDate": "2016-09-06",
-            "website": "http://spark-and-aster.com",
+            "website": "https://agencybcg.com/",
             "position": "Senior Software Engineer",
-            "company": "spark+aster"
+            "company": "BCG"
         },
         {
             "highlights": [
