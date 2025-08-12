@@ -14,13 +14,12 @@ City: Nottingham
 Country: US  
 Country: Maryland  
 
-## Profiles
 
-[Github - unstoppableCarl](https://github.com/unstoppablecarl)  
+
 
 ## Summary
 
-https://github.com/unstoppablecarl/resume
+A Full-Stack Software Engineer with 15 years of experience using PHP, MySQL, and Javascript. An effective member and sometimes leader of many international 100% remote teams. https://github.com/unstoppablecarl/resume
 
 ## Work
 
@@ -31,6 +30,7 @@ https://github.com/unstoppablecarl/resume
 * Web application scalability development and consulting
 * Database and cache optimization
 * Automated testing and CI pipelines
+* AI systems integration
 
 PHP, Laravel, MySql, JS, VueJS, python
 
@@ -123,15 +123,8 @@ Client work
 
 ## Volunteer
 
-### Mentor, [Nodeschool Baltimore](http://code.org/)
-##### 2017-11-01 
-
-* Worked one on one with teachers to prepare them for giving an coding intro lesson to their students
-
-Helped teachers and students learn about coding
-
 ### Mentor, [Nodeschool Baltimore](https://nodeschool.io/baltimore/)
-##### 2015-03-29 
+##### 2015-03-29 - 2017-11-01
 
 * Worked one on one with students to work through parts of the lesson they were struggling with
 
@@ -151,10 +144,10 @@ Volunteered as a coach for the Webslam youth hackathon
 ## Skills
 
 * Leadership (Scrum, Project Management, Architecture, Hiring, Mentoring)
-* Client (HTML5: Canvas, svg, WebGL, CSS: Less, Scss, Javascript: VueJS, Ember, Backbone, Stampit, d3, Angular, NodeJS: Webpack, Gulp, Metalsmith)
-* Server (Linux: Apache, nginx, vagrant, homestead, PHP: Composer, Laravel, Symfony, Zend, NodeJS: sockets, express, Cache: redis, memcached)
+* Client (HTML5: Canvas, svg, WebGL, CSS: Less, Scss, Sass, Javascript: VueJS, Ember, Backbone, Stampit, d3, Angular, NodeJS: Webpack, Gulp, Metalsmith, vite)
+* Server (Linux: Apache, nginx, vagrant, homestead, PHP: Composer, Laravel, Symfony, Zend, NodeJS: sockets, express, nuxt, Cache: redis, memcached, elastic search)
 * Databases (MySql, mariaDB, msSql, Sqlite, MongoDB)
-* Systems (AWS, Blackfire, Bugsnag, Circle CI, S3, Sendgrid, Stripe, Paypal, Travis CI)
+* Systems (AWS, Blackfire, Bugsnag, Circle CI, S3, Sendgrid, Stripe, Paypal, Travis CI, FedEx, UPS)
 
 
 ## Interests

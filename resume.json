@@ -1,23 +1,17 @@
 {
     "basics": {
         "name": "Carl Olsen",
-        "label": "Full Stack Developer",
+        "label": "Full Stack Software Engineer",
         "picture": "",
         "email": "unstoppablecarlolsen@gmail.com",
         "website": "https://unstoppablecarl.github.io/resume",
-        "summary": "https://github.com/unstoppablecarl/resume",
+        "summary": "A Full-Stack Software Engineer with 15 years of experience using PHP, MySQL, and Javascript. An effective member and sometimes leader of many international 100% remote teams. https://github.com/unstoppablecarl/resume",
         "location": {
             "city": "Nottingham",
             "countryCode": "US",
             "region": "Maryland"
         },
-        "profiles": [
-            {
-                "url": "https://github.com/unstoppablecarl",
-                "username": "unstoppableCarl",
-                "network": "Github"
-            }
-        ]
+        "profiles": []
     },
     "interests": [
         {
@@ -45,9 +39,9 @@
             "name": "Client",
             "keywords": [
                 "HTML5: Canvas, svg, WebGL",
-                "CSS: Less, Scss",
+                "CSS: Less, Scss, Sass",
                 "Javascript: VueJS, Ember, Backbone, Stampit, d3, Angular",
-                "NodeJS: Webpack, Gulp, Metalsmith"
+                "NodeJS: Webpack, Gulp, Metalsmith, vite"
             ]
         },
         {
@@ -55,8 +49,8 @@
             "keywords": [
                 "Linux: Apache, nginx, vagrant, homestead",
                 "PHP: Composer, Laravel, Symfony, Zend",
-                "NodeJS: sockets, express",
-                "Cache: redis, memcached"
+                "NodeJS: sockets, express, nuxt",
+                "Cache: redis, memcached, elastic search"
             ]
         },
         {
@@ -80,27 +74,20 @@
                 "Sendgrid",
                 "Stripe",
                 "Paypal",
-                "Travis CI"
+                "Travis CI",
+                "FedEx",
+                "UPS"
             ]
         }
     ],
     "volunteer": [
         {
             "highlights": [
-                "Worked one on one with teachers to prepare them for giving an coding intro lesson to their students"
-            ],
-            "summary": "Helped teachers and students learn about coding",
-            "startDate": "2017-11-01",
-            "website": "http://code.org/",
-            "position": "Mentor",
-            "organization": "Nodeschool Baltimore"
-        },
-        {
-            "highlights": [
                 "Worked one on one with students to work through parts of the lesson they were struggling with"
             ],
             "summary": "Volunteered to help students through a self guided intro to javascript",
             "startDate": "2015-03-29",
+            "endDate": "2017-11-01",
             "website": "https://nodeschool.io/baltimore/",
             "position": "Mentor",
             "organization": "Nodeschool Baltimore"
@@ -123,7 +110,8 @@
                 "Enterprise web application development",
                 "Web application scalability development and consulting",
                 "Database and cache optimization",
-                "Automated testing and CI pipelines"
+                "Automated testing and CI pipelines",
+                "AI systems integration"
             ],
             "summary": "PHP, Laravel, MySql, JS, VueJS, python",
             "startDate": "2022-05-22",
