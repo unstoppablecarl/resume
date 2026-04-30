@@ -7,19 +7,19 @@
 
 Email: [unstoppablecarlolsen@gmail.com](mailto:unstoppablecarlolsen@gmail.com)  
 Website: [https://unstoppablecarl.github.io/resume](https://unstoppablecarl.github.io/resume)  
-
-
-City: Nottingham  
+Linkedin: [https://www.linkedin.com/in/carl-olsen/](https://www.linkedin.com/in/carl-olsen/)
 
 Country: US  
-Country: Maryland  
+State: Maryland  
+City: Nottingham
 
+## Profiles
 
-
+[Linkedin - Carl Olsen](https://www.linkedin.com/in/carl-olsen/)  
 
 ## Summary
 
-A Full-Stack Software Engineer with 15 years of experience using PHP, MySQL, and Javascript. An effective member and sometimes leader of many international 100% remote teams. https://github.com/unstoppablecarl/resume
+A Full-Stack Software Engineer with 15 years of experience using PHP, MySQL, and Javascript. An effective member and sometimes leader of many international 100% remote teams and startups. https://github.com/unstoppablecarl/resume
 
 ## Work
 
@@ -31,6 +31,7 @@ A Full-Stack Software Engineer with 15 years of experience using PHP, MySQL, and
 * Database and cache optimization
 * Automated testing and CI pipelines
 * AI systems integration
+* SASS Startup architecture consultant
 
 PHP, Laravel, MySql, JS, VueJS, python
 
@@ -144,7 +145,7 @@ Volunteered as a coach for the Webslam youth hackathon
 ## Skills
 
 * Leadership (Scrum, Project Management, Architecture, Hiring, Mentoring)
-* Client (HTML5: Canvas, svg, WebGL, CSS: Less, Scss, Sass, Javascript: VueJS, Ember, Backbone, Stampit, d3, Angular, NodeJS: Webpack, Gulp, Metalsmith, vite)
+* Client (HTML5: Canvas, svg, WebGL, CSS: Less, Scss, Sass, Javascript: VueJS, Ember, Stampit, d3, Angular, NodeJS: Webpack, Metalsmith, vite)
 * Server (Linux: Apache, nginx, vagrant, homestead, PHP: Composer, Laravel, Symfony, Zend, NodeJS: sockets, express, nuxt, Cache: redis, memcached, elastic search)
 * Databases (MySql, mariaDB, msSql, Sqlite, MongoDB)
 * Systems (AWS, Blackfire, Bugsnag, Circle CI, S3, Sendgrid, Stripe, Paypal, Travis CI, FedEx, UPS)

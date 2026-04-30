@@ -5,13 +5,17 @@
         "picture": "",
         "email": "unstoppablecarlolsen@gmail.com",
         "website": "https://unstoppablecarl.github.io/resume",
-        "summary": "A Full-Stack Software Engineer with 15 years of experience using PHP, MySQL, and Javascript. An effective member and sometimes leader of many international 100% remote teams. https://github.com/unstoppablecarl/resume",
+        "summary": "A Full-Stack Software Engineer with 15 years of experience using PHP, MySQL, and Javascript. An effective member and sometimes leader of many international 100% remote teams and startups. https://github.com/unstoppablecarl/resume",
         "location": {
             "city": "Nottingham",
             "countryCode": "US",
             "region": "Maryland"
         },
-        "profiles": []
+        "profiles": [{
+            "network": "Linkedin",
+            "username": "Carl Olsen",
+            "url": "https://www.linkedin.com/in/carl-olsen/"
+        }]
     },
     "interests": [
         {
@@ -40,8 +44,8 @@
             "keywords": [
                 "HTML5: Canvas, svg, WebGL",
                 "CSS: Less, Scss, Sass",
-                "Javascript: VueJS, Ember, Backbone, Stampit, d3, Angular",
-                "NodeJS: Webpack, Gulp, Metalsmith, vite"
+                "Javascript: VueJS, Ember, Stampit, d3, Angular",
+                "NodeJS: Webpack, Metalsmith, vite"
             ]
         },
         {
@@ -111,7 +115,8 @@
                 "Web application scalability development and consulting",
                 "Database and cache optimization",
                 "Automated testing and CI pipelines",
-                "AI systems integration"
+                "AI systems integration",
+                "SASS Startup architecture consultant"
             ],
             "summary": "PHP, Laravel, MySql, JS, VueJS, python",
             "startDate": "2022-05-22",

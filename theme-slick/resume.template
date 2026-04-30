@@ -50,11 +50,9 @@
 						</div>
 						{{#location}}
 						<section id="location">
-							{{#if address}}
+
 							<icon class="entypo-home"></icon>
 							<span class="address">
-								{{address}}
-								<br/>
 								{{#if postalCode}}
 								<span class="postalCode">{{postalCode}}</span>
 								{{/if}}
@@ -68,20 +66,19 @@
 								<span class="countryCode">{{countryCode}}</span>
 								{{/if}}
 							</span>
-							{{/if}}
+
 						</section>
 						{{/location}}
 						{{#if profiles.length}}
 						<section id="profiles">
 							{{#each profiles}}
 							<div class="item">
+							    {{#if network}}
+                                    <icon class="entypo-{{class}}"></icon>
+                                {{/if}}
 								{{#if url}}
 								<a href="{{url}}">
-								{{/if}}
-								{{#if network}}
-								<icon class="entypo-{{class}}"></icon>
-								{{/if}}
-								{{#if url}}
+                                    {{network}}
 								</a>
 								{{/if}}
 							</div>

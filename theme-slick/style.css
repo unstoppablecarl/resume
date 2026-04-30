@@ -65,7 +65,9 @@ h2.section-title {
 	margin-bottom: 1em;
 }
 
-#basics icon {
+#basics icon,
+#location icon,
+#profiles icon {
 	margin-right:10px;
 	font-size:1.2em;
 }
@@ -82,8 +84,11 @@ h2.section-title {
 	margin-left:31px;
 }
 
+.contact {
+	margin-bottom: 5px;
+}
 #location {
-	margin-bottom:1em;
+	margin-bottom:5px;
 }
 
 #profiles {
@@ -97,17 +102,17 @@ h2.section-title {
 }
 
 #profiles a {
-	color: #4b4b4b;
+	/*color: #4b4b4b;*/
 }
 
 #profiles a:hover {
 	text-decoration: none;
-	color: #3b3b3b;
+	/*color: #3b3b3b;*/
 }
 
 #profiles [class*="entypo-"] {
 	margin-right:10px;
-	font-size: 2.8em;
+	/*font-size: 2.8em;*/
 	-webkit-transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
 	-o-transition: all 0.5s ease;

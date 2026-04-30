@@ -77,7 +77,9 @@ h2.section-title {
 	margin-bottom: 1em;
 }
 
-#basics icon {
+#basics icon,
+#location icon,
+#profiles icon {
 	margin-right:10px;
 	font-size:1.2em;
 }
@@ -94,8 +96,11 @@ h2.section-title {
 	margin-left:31px;
 }
 
+.contact {
+	margin-bottom: 5px;
+}
 #location {
-	margin-bottom:1em;
+	margin-bottom:5px;
 }
 
 #profiles {
@@ -109,17 +114,17 @@ h2.section-title {
 }
 
 #profiles a {
-	color: #4b4b4b;
+	/*color: #4b4b4b;*/
 }
 
 #profiles a:hover {
 	text-decoration: none;
-	color: #3b3b3b;
+	/*color: #3b3b3b;*/
 }
 
 #profiles [class*="entypo-"] {
 	margin-right:10px;
-	font-size: 2.8em;
+	/*font-size: 2.8em;*/
 	-webkit-transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
 	-o-transition: all 0.5s ease;
@@ -508,6 +513,22 @@ icon.large {
 							</div>
 						</div>
 						<section id="location">
+
+							<icon class="entypo-home"></icon>
+							<span class="address">
+								<span class="city">Nottingham</span>
+								<span class="region">Maryland</span>
+								<span class="countryCode">US</span>
+							</span>
+
+						</section>
+						<section id="profiles">
+							<div class="item">
+                                    <icon class="entypo-linkedin"></icon>
+								<a href="https://www.linkedin.com/in/carl-olsen/">
+                                    Linkedin
+								</a>
+							</div>
 						</section>
 					</section>
 				</div>
@@ -515,7 +536,7 @@ icon.large {
 			<div id="summary" class="row">
 				<div class="col-sm-8 col-sm-offset-4 col-xs-12">
 					<div class="summary">
-						<p class="lead">A Full-Stack Software Engineer with 15 years of experience using PHP, MySQL, and Javascript. An effective member and sometimes leader of many international 100% remote teams. https://github.com/unstoppablecarl/resume</p>
+						<p class="lead">A Full-Stack Software Engineer with 15 years of experience using PHP, MySQL, and Javascript. An effective member and sometimes leader of many international 100% remote teams and startups. https://github.com/unstoppablecarl/resume</p>
 					</div>
 				</div>
 			</div>
@@ -555,6 +576,7 @@ icon.large {
 					<li>Database and cache optimization</li>
 					<li>Automated testing and CI pipelines</li>
 					<li>AI systems integration</li>
+					<li>SASS Startup architecture consultant</li>
 				</ul>
 			</div>
 			<div class="item">
@@ -898,8 +920,8 @@ icon.large {
 				<ul class="keywords">
 					<li>HTML5: Canvas, svg, WebGL</li>
 					<li>CSS: Less, Scss, Sass</li>
-					<li>Javascript: VueJS, Ember, Backbone, Stampit, d3, Angular</li>
-					<li>NodeJS: Webpack, Gulp, Metalsmith, vite</li>
+					<li>Javascript: VueJS, Ember, Stampit, d3, Angular</li>
+					<li>NodeJS: Webpack, Metalsmith, vite</li>
 				</ul>
 			</div>
 			<div class="item">
