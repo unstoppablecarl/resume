@@ -7,11 +7,12 @@
 
 Email: [unstoppablecarlolsen@gmail.com](mailto:unstoppablecarlolsen@gmail.com)  
 Website: [https://unstoppablecarl.github.io/resume](https://unstoppablecarl.github.io/resume)  
-Linkedin: [https://www.linkedin.com/in/carl-olsen/](https://www.linkedin.com/in/carl-olsen/)
+
+
+City: Nottingham  
 
 Country: US  
-State: Maryland  
-City: Nottingham
+Country: Maryland  
 
 ## Profiles
 
@@ -19,7 +20,7 @@ City: Nottingham
 
 ## Summary
 
-A Full-Stack Software Engineer with 15 years of experience using PHP, MySQL, and Javascript. An effective member and sometimes leader of many international 100% remote teams and startups. https://github.com/unstoppablecarl/resume
+A Senior Full-Stack Software Engineer with 15 years of experience architecting robust web applications and specialized tools. Expert in modern frontend ecosystems (Vue 3, Pinia), high-performance TypeScript, WebAssembly, and backend architecture (PHP/Laravel). Adept at integrating AI APIs, and implementing complex procedural generation algorithms. Proven technical leader in 100% remote environments. https://github.com/unstoppablecarl/resume
 
 ## Work
 
@@ -145,9 +146,9 @@ Volunteered as a coach for the Webslam youth hackathon
 ## Skills
 
 * Leadership (Scrum, Project Management, Architecture, Hiring, Mentoring)
-* Client (HTML5: Canvas, svg, WebGL, CSS: Less, Scss, Sass, Javascript: VueJS, Ember, Stampit, d3, Angular, NodeJS: Webpack, Metalsmith, vite)
-* Server (Linux: Apache, nginx, vagrant, homestead, PHP: Composer, Laravel, Symfony, Zend, NodeJS: sockets, express, nuxt, Cache: redis, memcached, elastic search)
-* Databases (MySql, mariaDB, msSql, Sqlite, MongoDB)
+* Front End (Vue 3, Pinia, TypeScript, JavaScript, WebAssembly, HTML5 Canvas, WebGL)
+* Backend (PHP, Laravel, Microservices, Node.js, REST APIs)
+* Databases &amp; Caching (MySql, mariaDB, MongoDB, Redis, ElasticSearch)
 * Systems (AWS, Blackfire, Bugsnag, Circle CI, S3, Sendgrid, Stripe, Paypal, Travis CI, FedEx, UPS)
 
 

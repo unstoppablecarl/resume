@@ -5,7 +5,7 @@
         "picture": "",
         "email": "unstoppablecarlolsen@gmail.com",
         "website": "https://unstoppablecarl.github.io/resume",
-        "summary": "A Full-Stack Software Engineer with 15 years of experience using PHP, MySQL, and Javascript. An effective member and sometimes leader of many international 100% remote teams and startups. https://github.com/unstoppablecarl/resume",
+        "summary": "A Senior Full-Stack Software Engineer with 15 years of experience architecting robust web applications and specialized tools. Expert in modern frontend ecosystems (Vue 3, Pinia), high-performance TypeScript, WebAssembly, and backend architecture (PHP/Laravel). Adept at integrating AI APIs, and implementing complex procedural generation algorithms. Proven technical leader in 100% remote environments. https://github.com/unstoppablecarl/resume",
         "location": {
             "city": "Nottingham",
             "countryCode": "US",
@@ -40,31 +40,35 @@
             ]
         },
         {
-            "name": "Client",
+            "name": "Front End",
             "keywords": [
-                "HTML5: Canvas, svg, WebGL",
-                "CSS: Less, Scss, Sass",
-                "Javascript: VueJS, Ember, Stampit, d3, Angular",
-                "NodeJS: Webpack, Metalsmith, vite"
+              "Vue 3",
+              "Pinia",
+              "TypeScript",
+              "JavaScript",
+              "WebAssembly",
+              "HTML5 Canvas",
+              "WebGL"
             ]
         },
         {
-            "name": "Server",
+            "name": "Backend",
             "keywords": [
-                "Linux: Apache, nginx, vagrant, homestead",
-                "PHP: Composer, Laravel, Symfony, Zend",
-                "NodeJS: sockets, express, nuxt",
-                "Cache: redis, memcached, elastic search"
+              "PHP",
+              "Laravel",
+              "Microservices",
+              "Node.js",
+              "REST APIs"
             ]
         },
         {
-            "name": "Databases",
+            "name": "Databases & Caching",
             "keywords": [
                 "MySql",
                 "mariaDB",
-                "msSql",
-                "Sqlite",
-                "MongoDB"
+                "MongoDB",
+                "Redis",
+                "ElasticSearch"
             ]
         },
         {
